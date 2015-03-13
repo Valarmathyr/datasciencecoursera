@@ -1,3 +1,3 @@
 # datasciencecoursera
 Repo for Coursera assignment
-Test repocreated for assignment purpose
+Test repo created for assignment purpose
